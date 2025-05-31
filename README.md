@@ -29,7 +29,7 @@
 
 ## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/aung-kaung-sett-42ba25197/(#)
+- LinkedIn: https://www.linkedin.com/in/aung-kaung-sett-42ba25197
 - Email: aks251102@gmail.com
 
 ---
