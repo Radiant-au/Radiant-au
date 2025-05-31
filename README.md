@@ -26,13 +26,13 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=Radiant-au&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/> 
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" width="48%"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radiant-au&layout=compact&theme=radical" alt="Top Languages" width="48%"/>  
 
 <!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Radiant-au&theme=radical" alt="GitHub Streak" width="100%"/>
 
 </div>
 
