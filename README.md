@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Aung Kaung Sett
 - My Poforlio : https://radiant11.web.app/
 
-🎓 I'm a passionate Software Engineering student focused on becoming a skilled full-stack developer and future cloud infrastructure engineer.
+🎓 My goal is to continuously learn, experiment, and build impactful software solutions with a strong emphasis on security, scalability, and real-world reliability.
 
 💻 Most of my projects are currently in **private repositories** due to academic or client constraints, but I actively contribute to full-stack applications using technologies like:
 
