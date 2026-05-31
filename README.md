@@ -1,6 +1,6 @@
 # Aung Kaung Sett
 
-**Full-Stack Engineer · AI · Cybersecurity** · I build things that actually solve people's problems.
+**Full-Stack Engineer · AI · Cybersecurity** · I build things that have in my mind.
 
 🌐 [Portfolio](https://aungkaungsett-3c3b0.web.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/aung-kaung-sett-42ba25197) · 📬 aks251102@gmail.com
 
@@ -8,11 +8,11 @@
 
 ## Who I Am
 
-I'm not chasing hype. I just genuinely love solving real problems with my tech knowlodge..
+I just genuinely love solving real problems with my tech knowlodge..
 
 ---
 
-## Top projects I've shipped
+## During my university, projects I've shipped
 
 | Project | What it does | Recognition |
 |---|---|---|
@@ -20,8 +20,6 @@ I'm not chasing hype. I just genuinely love solving real problems with my tech k
 | 🔗 **Nexus** — Social Connecting App | A platform for people to find and connect meaningfully | 🥇 1st Prize (3rd Year) |
 | 🗳️ **School Voting System** | End-to-end election platform built solo. Live since 2023. | — |
 | 🤖 **QR Coupon System** | Made e coupon with QR code for a festival | — |
-
-> Most of my work is in private repos. I'm happy to walk through architecture and code in person.
 
 ---
 
