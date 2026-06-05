@@ -10,8 +10,8 @@
 
 ## Start Here
 
-🗳️ [utycc_voting_2023](https://github.com/Radiant-au/utycc_voting_2023) — end-to-end election platform. live since 2023. ~1200 users.
-🗳️ [utycc_voting_2024_front](https://github.com/Radiant-au/utycc_vote_front) / [utycc_voting_2024_back](https://github.com/Radiant-au/YCC_Vote_back) — voting system backend (Node.js, TypeScript)
+🗳️ [utycc_voting_2023](https://github.com/Radiant-au/utycc_voting_2023) — end-to-end election platform. live since 2023. ~1200 users.  
+🗳️ [utycc_voting_2024_front](https://github.com/Radiant-au/utycc_vote_front) / [utycc_voting_2024_back](https://github.com/Radiant-au/YCC_Vote_back) — voting system backend (Node.js, TypeScript)  
 📦 [2025_fresher_welcome](https://github.com/Radiant-au/2025_fresher_welcome) — hub repo for the QR coupon + voting systems I built for a university festival  
 🧠 [DocRetriver-RAG](https://github.com/Radiant-au/DocRetriver-RAG) — document retrieval with RAG  
 🌐 [webLLM](https://github.com/Radiant-au/webLLM) — LLMs, in the browser
@@ -39,7 +39,7 @@
 🏢 [HR_management](https://github.com/Radiant-au/HR_management) — HR system with leave + shift management  
 🎓 [Technologia_front](https://github.com/Radiant-au/Technologia_front) / [Technologia_backend](https://github.com/Radiant-au/Technologia_backend) — attendance system, full-stack  
 📡 [Smart_Event](https://github.com/Radiant-au/Smart_Event) — smart event management platform  
-📚 [Library_Prototype](https://github.com/Radiant-au/Library_Prototype) — library system prototype
+📚 [Library_Prototype](https://github.com/Radiant-au/Library_Prototype) — library system prototype  
 🤝 [Nexus-Frontend](https://github.com/Radiant-au/frontend_social) / [Nexus-Backend](https://github.com/Radiant-au/SocialMedia) — full stack social media platform instagram-style
 
 ### Older Work (Still Ships)  
