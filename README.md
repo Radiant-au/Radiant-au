@@ -11,7 +11,7 @@
 ## Start Here
 
 🗳️ [utycc_voting_2023](https://github.com/Radiant-au/utycc_voting_2023) — end-to-end election platform. live since 2023. ~1200 users.  
-🗳️ [utycc_voting_2024_front](https://github.com/Radiant-au/utycc_vote_front) / [utycc_voting_2024_back](https://github.com/Radiant-au/YCC_Vote_back) — voting system backend (Node.js, TypeScript)  
+🎪 [utycc_voting_2024_front](https://github.com/Radiant-au/utycc_vote_front) / [utycc_voting_2024_back](https://github.com/Radiant-au/YCC_Vote_back) — voting system backend (Node.js, TypeScript)  
 📦 [2025_fresher_welcome](https://github.com/Radiant-au/2025_fresher_welcome) — hub repo for the QR coupon + voting systems I built for a university festival  
 🧠 [DocRetriver-RAG](https://github.com/Radiant-au/DocRetriver-RAG) — document retrieval with RAG  
 🌐 [webLLM](https://github.com/Radiant-au/webLLM) — LLMs, in the browser
@@ -20,8 +20,7 @@
 
 ## Current Projects
 
-### Event Systems
- — voting system frontend (React, TypeScript)    
+### Event Systems   
 🖥️ [admin_ui_votingSite](https://github.com/Radiant-au/admin_ui_votingSite) — admin dashboard for the voting platform  
 📱 [QR_verification_react](https://github.com/Radiant-au/QR_verification_react) — QR verification frontend (React, TypeScript)  
 🔐 [QR_coupon_verification](https://github.com/Radiant-au/QR_coupon_verification) — QR coupon system backend for a UTYCC festival shop (Express, TypeScript, PostgreSQL, HMAC SHA-256)
