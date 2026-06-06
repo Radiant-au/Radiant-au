@@ -30,6 +30,7 @@
 🧠 [DocRetriver-RAG](https://github.com/Radiant-au/DocRetriver-RAG) — document retriever using RAG  
 🔬 [chromadb-learning-lab](https://github.com/Radiant-au/chromadb-learning-lab) — ChromaDB experiments  
 🌐 [webLLM](https://github.com/Radiant-au/webLLM) — web-based LLM  
+🕷️ [crawler-bot](https://github.com/Radiant-au/crawler-bot) — Crawl4AI-based web crawler for extracting filtered Markdown  
 🖼️ [ImageCaptionUsingBLBP](https://github.com/Radiant-au/ImageCaptionUsingBLBP) — image captioning   
 🔓 [open_claw](https://github.com/Radiant-au/open_claw) — personal step-by-step build of OpenClaw
 
